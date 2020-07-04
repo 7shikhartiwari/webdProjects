@@ -1,0 +1,52 @@
+body{
+	background-color: black	;
+	text-align: center;
+	color: white;
+	margin: 0;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+#mains{
+	text-transform: uppercase;
+	background-color: #c1d9d5;
+	color: black;
+	margin: 0px;
+	padding-top : 5px;
+	padding-bottom: 5px;
+}
+#messagebox{
+	text-transform: uppercase;
+	text-align: center;
+	color: white;
+	background-color: #155247;
+	height: 40px;
+}
+#message{
+	display: inline-block;
+	width: 20%;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+button{
+	background-color:#155247 ;
+	border: none;
+	height: 40px;
+	color: white;
+	text-transform: uppercase;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}
+
+.square{
+	width: 30%;
+	margin: 1%;
+	padding-bottom: 10%;
+	padding-top: 10%;
+	float: left;
+}
+.container{
+	margin-left:auto ;
+	margin-right: auto;
+	padding: 20%;
+	padding-top: 1%;
+}
+
+
